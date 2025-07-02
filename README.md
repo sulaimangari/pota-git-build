@@ -1,5 +1,5 @@
 # :potato: Pota git Build
-## Because my spec too potato too build
+## Because my spec too potato to build
 
 This is more of a bandaid implementetaion direct tunneling via terminal with webhook using webhook as initiator for connection.  
 
