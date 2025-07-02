@@ -7,6 +7,8 @@ The advantage of using this is more integrated environtment with your terminal.
 
 For now it will be more focused for IoT project (eg. PlatformIO, ESP-IDF, NRF)
 
+When script initiated it will generate github workflow and attempt to connect with git action VM.
+
 ## Install
 ```bash
 
